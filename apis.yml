@@ -22,10 +22,14 @@ access: 3rd-Party
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/equator-principles-domain-security.yml
   - type: Website
     url: https://equator-principles.com/
   - type: Documentation
     url: https://equator-principles.com/about-the-equator-principles/
+  - url: https://equator-principles.com/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
