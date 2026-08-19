@@ -30,7 +30,7 @@ created: '2025-01-01'
 modified: '2026-04-28'
 position: Consumer
 access: 3rd-Party
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 apis: []
 common:
   - type: DomainSecurity
