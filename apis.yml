@@ -22,6 +22,11 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/equator-principles.png
 tags:
   - Environmental Social Governance
+  - Financial-Services
+  - Risk Management
+  - Sustainability
+tags_raw:
+  - Environmental Social Governance
   - Financial Services
   - Risk Management
   - Sustainability
